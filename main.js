@@ -35,8 +35,8 @@
         continer.style.width = "30vw";
         continer.style.borderRadius = "0px";
         color.value="#0000ff";
-        length1.value="30vh";
-        width.value="40vw";
+        length1.value="40vh";
+        width.value="30vw";
         border.value="0px"
 
 
